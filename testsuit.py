@@ -1,3 +1,4 @@
+# coding=UTF-8
 import unittest
 from test.cases.case2 import LoginTest
 from test.cases.case3 import RegisterTest
