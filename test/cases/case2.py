@@ -1,3 +1,4 @@
+# coding=UTF-8
 import sys
 # print (sys.path)
 sys.path.append('/Users/zyzhao/Desktop/web_ddt-master')
